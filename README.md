@@ -3,16 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=philippliebhart&label=Profile%20views&color=0e75b6&style=flat" alt="philippliebhart" /> </p>
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=PhilippLiebhart&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">[![My github stats](https://github-readme-stats.vercel.app/api?username=PhilippLiebhart&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)</p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippLiebhart&layout=compact&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=philippliebhart&" alt="philippliebhart" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philippliebhart" alt="philippliebhart" /></a> </p>
-
 
 - 🔭 I’m currently working on [BTC Dashboard v1](https://github.com/PhilippLiebhart/BTCDashboardv1)
 
