@@ -1,17 +1,10 @@
-### Hi there 👋
-
-
-- 🔭 I’m currently working on BTC-Dashboard-v1
-- 🌱 I’m currently learning React, Solidity
-- 👯 I’m looking to collaborate on anything Interesting!
-
-
 <h1 align="center">Hi 👋, I'm Philipp</h1>
 <h3 align="center">multimedia jack of all trades</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=philippliebhart&label=Profile%20views&color=0e75b6&style=flat" alt="philippliebhart" /> </p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippLiebhart&layout=compact&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PhilippLiebhart&show_icons=true&theme=dark&count_private=true)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PhilippLiebhart&show_icons=true&theme=dark&count_private=true)
 
 
 
