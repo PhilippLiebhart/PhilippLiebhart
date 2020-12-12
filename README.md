@@ -1,3 +1,4 @@
+<span align="right"> <img src="https://komarev.com/ghpvc/?username=philippliebhart&label=Profile%20views&color=0e75b6&style=flat" alt="philippliebhart"/> </span>
 <h1 align="center">Hi 👋, I'm Philipp</h1>
 <h3 align="center">multimedia jack of all trades</h3>
 
@@ -5,18 +6,11 @@
 
 - 👯 I’m looking to collaborate on [BTC Dashboard v1](https://github.com/PhilippLiebhart/BTCDashboardv1)
 
-<span align="right"> <img src="https://komarev.com/ghpvc/?username=philippliebhart&label=Profile%20views&color=0e75b6&style=flat" alt="philippliebhart"/> </span>
-<span><img align="left" width="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=philippliebhart&" alt="philippliebhart" /></span>
 
-
-<span><img align="right" width="300px" src="https://github-readme-stats.vercel.app/api?username=PhilippLiebhart&count_private=true&theme=dark" alt="philippliebhart" /><img align="" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippLiebhart&layout=compact&count_private=true&theme=dark" alt="philippliebhart" /></span>
-
-
-[![My github stats](https://github-readme-stats.vercel.app/api?username=PhilippLiebhart&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<span><img align="left" width="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=philippliebhart&" alt="philippliebhart" /><img align="right" width="300px" src="https://github-readme-stats.vercel.app/api?username=PhilippLiebhart&count_private=true&theme=dark" alt="philippliebhart" /><img align="" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippLiebhart&layout=compact&count_private=true&theme=dark" alt="philippliebhart" /></span>
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippLiebhart&layout=compact&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
