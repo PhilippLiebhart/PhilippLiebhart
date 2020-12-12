@@ -6,6 +6,10 @@
 
 - 👯 I’m looking to collaborate on [BTC Dashboard v1](https://github.com/PhilippLiebhart/BTCDashboardv1)
 
+- 🌱 I’m currently learning React, Solidity
+
+- ⚡ I’m looking to learn Solidity
+
 
 <span><img  width="350px" src="https://github-readme-stats.vercel.app/api?username=PhilippLiebhart&count_private=true&theme=dark" alt="philippliebhart" /><img width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=philippliebhart&" alt="philippliebhart" /><img  width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippLiebhart&layout=compact&count_private=true&theme=dark" alt="philippliebhart" /></span>
 
@@ -23,20 +27,6 @@
 
 
 
-
-<!--
-**PhilippLiebhart/PhilippLiebhart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on BTC-Dashboard-v1
-- 🌱 I’m currently learning React, Solidity
-- 👯 I’m looking to collaborate on anything Interesting!
-
-- ⚡ Fun fact: ...
--->
 
 
 
