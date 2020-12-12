@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=philippliebhart&label=Profile%20views&color=0e75b6&style=flat" alt="philippliebhart" /> </p>
 
-<p align="left">[![My github stats](https://github-readme-stats.vercel.app/api?username=PhilippLiebhart&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)</p>
+[![My github stats](https://github-readme-stats.vercel.app/api?username=PhilippLiebhart&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippLiebhart&layout=compact&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
