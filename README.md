@@ -2,6 +2,8 @@
 <h3 align="center">multimedia jack of all trades</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=philippliebhart&label=Profile%20views&color=0e75b6&style=flat" alt="philippliebhart" /> </p>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippLiebhart)](https://github.com/anuraghazra/github-readme-stats)
 
