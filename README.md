@@ -9,9 +9,7 @@
 <span><img align="left" width="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=philippliebhart&" alt="philippliebhart" /></span>
 
 
-<span><img align="right" width="300px" src="https://github-readme-stats.vercel.app/api?username=PhilippLiebhart&count_private=true&theme=dark" alt="philippliebhart" /></span>
-
-<p><img align="" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippLiebhart&layout=compact&count_private=true&theme=dark" alt="philippliebhart" /></p>
+<span><img align="right" width="300px" src="https://github-readme-stats.vercel.app/api?username=PhilippLiebhart&count_private=true&theme=dark" alt="philippliebhart" /><img align="" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippLiebhart&layout=compact&count_private=true&theme=dark" alt="philippliebhart" /></span>
 
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=PhilippLiebhart&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
