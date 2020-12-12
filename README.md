@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on [BTC Dashboard v1](https://github.com/PhilippLiebhart/BTCDashboardv1)
 
 
-<span><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=philippliebhart&" alt="philippliebhart" /><img  width="300px" src="https://github-readme-stats.vercel.app/api?username=PhilippLiebhart&count_private=true&theme=dark" alt="philippliebhart" /><img  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippLiebhart&layout=compact&count_private=true&theme=dark" alt="philippliebhart" /></span>
+<span><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=philippliebhart&" alt="philippliebhart" /><img  width="400px" src="https://github-readme-stats.vercel.app/api?username=PhilippLiebhart&count_private=true&theme=dark" alt="philippliebhart" /><img  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippLiebhart&layout=compact&count_private=true&theme=dark" alt="philippliebhart" /></span>
 
 
 
