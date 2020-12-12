@@ -12,15 +12,12 @@
 
 <h1 align="center">Hi 👋, I'm Philipp</h1>
 <h3 align="center">multimedia jack of all trades</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=philippliebhart&label=Profile%20views&color=0e75b6&style=flat" alt="philippliebhart" /> </p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=philippliebhart&" alt="philippliebhart" /></p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=philippliebhart&label=Profile%20views&color=0e75b6&style=flat" alt="philippliebhart" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philippliebhart" alt="philippliebhart" /></a> </p>
-
-
 
 
 - 🔭 I’m currently working on [BTC Dashboard v1](https://github.com/PhilippLiebhart/BTCDashboardv1)
