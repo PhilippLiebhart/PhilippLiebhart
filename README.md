@@ -1,6 +1,6 @@
 <span align="right"> <img src="https://komarev.com/ghpvc/?username=philippliebhart&label=Profile%20views&color=0e75b6&style=flat" alt="philippliebhart"/> </span>
 <h1 align="center">Hi 👋, I'm Philipp</h1>
-<h3 align="center">multimedia jack of all trades</h3>
+<h3 align="center">"multimedia jack of all trades"</h3>
 
 - 🔭 I’m currently working on [BTC Dashboard v1](https://github.com/PhilippLiebhart/BTCDashboardv1)
 
