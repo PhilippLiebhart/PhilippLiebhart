@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on [BTC Dashboard v1](https://github.com/PhilippLiebhart/BTCDashboardv1)
 
-- 🌱 I’m currently learning React, Solidity
+- 🌱 I’m currently learning React
 
 - ⚡ next stop: Blockchain
 
